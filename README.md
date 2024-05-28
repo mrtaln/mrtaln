@@ -3,9 +3,9 @@
 
 <p align="left">
   <a href="https://github.com/mrtlan/mrtaln">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=mrtaln" alt="page views" />
   </a>
-  <a href="https://jacobcolvin.com">
+  <a href="https://muratalan.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
   </a>
   <a href="https://stackoverflow.com/users/4868262">
