@@ -26,9 +26,9 @@
   <img src="https://raw.githubusercontent.com/mrtaln/github-stats-transparent/output/generated/overview.svg" alt="mrtaln" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :office: &nbsp;I'm currently working at **[InnoEM]** and **[Sustainfinity]**
+- :seedling: &nbsp;I’m currently working on my **[environment]**
+- :speech_balloon: &nbsp;I like to talk about **travel**, **tech** and other **things**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -122,8 +122,9 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+[InnoEM]: https://innoem.net "InnoEM"
+[Sustainfinity]: https://sustainfinity.com "Sustainfinity"
+[issues page]: https://github.com/mrtaln/mrtaln/issues "mrtaln/issues"
+[linkedin]: https://www.linkedin.com/in/mrtaln "Murat Alan LinkedIn"
+[homelab]: https://github.com/mrtaln
+[blog]: https://muratalan.com
