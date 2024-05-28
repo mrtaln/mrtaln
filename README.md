@@ -23,7 +23,7 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/mrtaln/github-stats-transparent/output/generated/overview.svg" alt="mrtaln" align="right" />
+  <img src="https://raw.githubusercontent.com/mrtaln/github-stats/generated/overview.svg" alt="mrtaln" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[InnoEM]** and **[Sustainfinity]**
