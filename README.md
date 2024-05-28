@@ -125,6 +125,6 @@
 [InnoEM]: https://innoem.net "InnoEM"
 [Sustainfinity]: https://sustainfinity.com "Sustainfinity"
 [issues page]: https://github.com/mrtaln/mrtaln/issues "mrtaln/issues"
-[linkedin]: https://www.linkedin.com/in/mrtaln "Murat Alan LinkedIn"
+[linkedin]: https://www.linkedin.com/in/murat-alan "Murat Alan LinkedIn"
 [environment]: https://github.com/mrtaln
 [blog]: https://muratalan.com
