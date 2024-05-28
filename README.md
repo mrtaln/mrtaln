@@ -22,16 +22,20 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/mrtaln/github-stats/master/generated/overview.svg" alt="mrtaln" align="top" />
-</a>
-
 - :office: &nbsp;I'm currently working at **[InnoEM]** and **[Sustainfinity]**
 - :seedling: &nbsp;I’m currently working on my **[environment]**
 - :speech_balloon: &nbsp;I like to talk about **travel**, **tech** and other **things**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/mrtaln/github-stats/master/generated/overview.svg" alt="mrtaln"/>
+</a>
+
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/mrtaln/github-stats/master/generated/languages.svg" alt="mrtaln"/>
+</a>
 
 <br>
 
@@ -61,36 +65,6 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left">Coding Activity</h2>
-
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  2064.5 hr  ┤                                                                                              ╭──── 
-  2063.7 hr  ┤                                                                                          ╭───╯     
-  2062.9 hr  ┤                                                                                       ╭──╯         
-  2062.1 hr  ┤                                                                                    ╭──╯            
-  2061.3 hr  ┤                                                                                ╭───╯               
-  2060.5 hr  ┤                                                                            ╭───╯                   
-  2059.7 hr  ┤                                                                         ╭──╯                       
-  2058.9 hr  ┤                                                                       ╭─╯                          
-  2058.1 hr  ┤                                                                      ╭╯                            
-  2057.3 hr  ┤                                                                     ╭╯                             
-  2056.4 hr  ┤                                                                    ╭╯                              
-  2055.6 hr  ┤                                                                   ╭╯                               
-  2054.8 hr  ┼───────────────────────────────────────────────────────────────────╯                                
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
 
 [InnoEM]: https://innoem.net "InnoEM"
 [Sustainfinity]: https://sustainfinity.com "Sustainfinity"
